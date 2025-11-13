@@ -1,10 +1,13 @@
 # Programming for Problem Solving 💻
 
+![Project Status: Active](https://img.shields.io/badge/status-active-brightgreen.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/rajghosh06-dev/Programming-for-Problem-Solving)
 ![GitHub last commit](https://img.shields.io/github/last-commit/rajghosh06-dev/Programming-for-Problem-Solving)
 ![GitHub language count](https://img.shields.io/github/languages/count/rajghosh06-dev/Programming-for-Problem-Solving)
 ![GitHub top language](https://img.shields.io/github/languages/top/rajghosh06-dev/Programming-for-Problem-Solving)
+![License: MIT](https://img.shields.io/github/license/rajghosh06-dev/Programming-for-Problem-Solving)
 ![GitHub stars](https://img.shields.io/github/stars/rajghosh06-dev/Programming-for-Problem-Solving?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/rajghosh06-dev/Programming-for-Problem-Solving?style=social)
 
 This repository contains all the programming assignments, lab exercises, and practice problems from my **B.Tech 1st Year (CSE - AI&ML)** curriculum at Geethanjali College of Engineering and Technology. It is divided into two semesters:
 
